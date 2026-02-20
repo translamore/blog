@@ -8,6 +8,7 @@ title: Translamore Blog
   <meta charset="utf-8">
   <title>{{  title  }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Translamore Blog - News and Introstories for language learners">
 
   <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
@@ -29,16 +30,33 @@ title: Translamore Blog
   </header>
 
   <main>
-    <div>
-      <ol class="post-list">
-      {% for page in pages.byTag("posts", sortBy="publishDate=desc") %}
-        <li>
-          <a href="{{  page.data['url']  }}"><p class="title">{{  page.data['title']  }}</p></a>
-          <p class="description">{{  page.data['description']  }}</p>
-        </li>
-      {% endfor %}
-      </ol>
-    </div>
+    <section>
+      <h2>News</h2>
+      <div>
+        <ol class="post-list">
+        {% for page in pages.byTag("news", sortBy="publishDate=desc") %}
+          <li>
+            <a href="{{  page.data['url']  }}"><p class="title">{{  page.data['title']  }}</p></a>
+            <p class="description">{{  page.data['description']  }}</p>
+          </li>
+        {% endfor %}
+        </ol>
+      </div>
+    </section>
+
+    <section>
+      <h2>Introstories</h2>
+      <div>
+        <ol class="post-list">
+        {% for page in pages.byTag("introstories", sortBy="publishDate=desc") %}
+          <li>
+            <a href="{{  page.data['url']  }}"><p class="title">{{  page.data['title']  }}</p></a>
+            <p class="description">{{  page.data['description']  }}</p>
+          </li>
+        {% endfor %}
+        </ol>
+      </div>
+    </section>
   </main>
 
   {{  components.footer()  }}

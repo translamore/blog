@@ -7,6 +7,7 @@ Future<void> main(List<String> arguments) async {
     // you can copy an "images" directory from the source set to build set:
     ..pick(ExtensionPicker("html"))
     ..pick(ExtensionPicker("jpeg"))
+    ..pick(ExtensionPicker("jpg"))
     ..pick(DirectoryPicker.parse("images"))
     // All 3rd party behavior is added through plugins, even the behavior
     // shipped with Static Shock.
@@ -21,8 +22,8 @@ Future<void> main(List<String> arguments) async {
     ..plugin(RssPlugin(
       site: RssSiteConfiguration(
         title: "Translamore Blog",
-        description: "",
-        homePageUrl: "",
+        description: "News and introstories from Translamore",
+        homePageUrl: "https://blog.translamore.com",
       ),
       pageToRssItemMapper: (RssSiteConfiguration config, Page page) {
         return defaultPageToRssItemMapper(config, page)?.copyWith(

@@ -1,0 +1,5 @@
+layout: layouts/post.jinja
+tags:
+  - posts
+  - introstories
+author: Translamore Team
