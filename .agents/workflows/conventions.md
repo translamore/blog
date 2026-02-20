@@ -82,6 +82,7 @@ Your content here...
 ## Build Commands
 - `dart run bin/main.dart` — production build
 - `dart run bin/main.dart preview` — include draft posts
+- `shock serve` — serve the static site locally (auto-updates on change)
 
 ## Deployment
 - Hosted on **GitHub Pages** via `.github/workflows/deploy.yml`
