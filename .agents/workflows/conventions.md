@@ -79,6 +79,11 @@ header: /introstories/<lang>/<topic>.jpg
 Your content here...
 ```
 
+## Workflow & Feedback
+
+- **Standard Flow**: Before completing a task, ALWAYS run the `/retrospective` workflow.
+- **Rules Documentation**: Keep the [learned_rules.md](.agents/learned_rules.md) updated with any new patterns or lessons discovered during the session.
+
 ## Build Commands
 - `dart run bin/main.dart` — production build
 - `dart run bin/main.dart preview` — include draft posts
