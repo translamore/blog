@@ -1,0 +1,46 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Introstories - Translamore Blog</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Language learning stories by Translamore">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+  <link rel="manifest" href="/images/favicon/site.webmanifest">
+  <link rel="mask-icon" href="/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="shortcut icon" href="/images/favicon/favicon.ico">
+
+  <link href="/styles/styles.css" rel="stylesheet">
+  <link href="/styles/home.css" rel="stylesheet">
+  <link href="/styles/post.css" rel="stylesheet">
+</head>
+
+<body>
+  {{ components.nav() }}
+
+  <header>
+    <h1>Stories</h1>
+    <p class="tagline">Select a language to start reading</p>
+  </header>
+
+  <main>
+    <section>
+      <ul class="post-list">
+        <li><a class="title" href="/introstories/cs/">Czech (čeština)</a></li>
+        <li><a class="title" href="/introstories/de/">German (Deutsch)</a></li>
+        <li><a class="title" href="/introstories/en/">English</a></li>
+        <li><a class="title" href="/introstories/fr/">French (Français)</a></li>
+        <li><a class="title" href="/introstories/it/">Italian (Italiano)</a></li>
+        <li><a class="title" href="/introstories/pl/">Polish (Polski)</a></li>
+        <li><a class="title" href="/introstories/uk/">Ukrainian (Українська)</a></li>
+      </ul>
+    </section>
+  </main>
+
+  {{  components.footer()  }}
+</body>
+</html>
