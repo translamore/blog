@@ -4,7 +4,7 @@ description: How to serve the static site and verify changes in Chrome
 
 1. Start the static server:
 // turbo
-`shock serve --port 4000`
+`./scripts/serve_wrapper.sh`
 
 2. Open the browser to verify changes:
 Use the `open_browser_url` tool to navigate to `http://localhost:4000`.

@@ -82,7 +82,7 @@ Your content here...
 ## Build Commands
 - `dart run bin/main.dart` — production build
 - `dart run bin/main.dart preview` — include draft posts
-- `shock serve --port 4000` — serve the static site locally (auto-updates on change)
+- `./scripts/serve_wrapper.sh` — serve the static site locally (ensures single instance)
 
 ## Deployment
 - Hosted on **GitHub Pages** via `.github/workflows/deploy.yml`
