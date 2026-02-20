@@ -1,11 +1,11 @@
-<!--
+---
 title: "# L’Empreinte Climatique : Naviguer dans l’Ère des Canicules Perpétuelles"
 description: "An introstory about weather in fr"
 language: fr
 topic: weather
 publishDate: 2026-02-20
 header: /introstories/fr/weather.jpg
--->
+---
 # L’Empreinte Climatique : Naviguer dans l’Ère des Canicules Perpétuelles
 
 Le terme « canicule » évoquait autrefois, dans l’imaginaire collectif européen, une parenthèse enchantée de farniente sous un soleil généreux, interrompue seulement par le chant des cigales. Pourtant, en l’espace de quelques décennies, cette notion a glissé du champ lexical de la météorologie estivale vers celui de l’urgence sanitaire et environnementale. Pour un lecteur de niveau avancé, il convient d'analyser ce phénomène non plus comme un aléa climatique isolé, mais comme le symptôme d’une transformation profonde de notre rapport au territoire et à la temporalité.

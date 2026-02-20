@@ -1,11 +1,11 @@
-<!--
+---
 title: "# Aperitivo: Identità Liquida"
 description: "An introstory about custom in it"
 language: it
 topic: custom
 publishDate: 2026-02-20
 header: /introstories/it/custom.jpg
--->
+---
 # Aperitivo: Identità Liquida
 
 L'evoluzione dell’aperitivo da semplice rituale pre-serale a fenomeno sociologico totalizzante rappresenta una delle trasformazioni più affascinanti del costume italiano contemporaneo. Sebbene le radici del termine affondino nell’etimologia latina _aperitīvus_, ovvero "che apre", con riferimento esplicito alla stimolazione del senso della fame, la declinazione moderna di questa consuetudine ha travalicato i confini della mera fisiologia per insediarsi stabilmente nel tessuto dell'interazione sociale urbana. Quello che un tempo era un rapido bicchiere di vino accompagnato da qualche oliva si è trasfigurato in un’esperienza sensoriale complessa, spesso capace di sostituire il pasto serale e di ridefinire i ritmi della metropoli.

@@ -1,11 +1,11 @@
-<!--
+---
 title: "The Sunday Roast: A Ritual of British Identity and Culinary Continuity"
 description: "An introstory about food in en"
 language: en
 topic: food
 publishDate: 2026-02-20
 header: /introstories/en/food.jpg
--->
+---
 ## The Sunday Roast: A Ritual of British Identity and Culinary Continuity
 
 The British Sunday roast is far more than a mere weekly meal; it is a cultural cornerstone that has survived industrialization, rationing, and the globalization of the modern palate. To the uninitiated, it may appear to be a straightforward plate of meat and vegetables, yet to those raised within its tradition, it represents a complex interplay of history, family dynamics, and a stubborn adherence to slow-cooked comfort. This culinary institution serves as a weekly pause in the frenetic pace of contemporary life, anchoring the British identity to a pastoral past that remains remarkably resilient.

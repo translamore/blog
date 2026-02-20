@@ -1,11 +1,11 @@
-<!--
+---
 title: "# The Rhythms of the Willow: Cricket and the British Soul"
 description: "An introstory about sport in en"
 language: en
 topic: sport
 publishDate: 2026-02-20
 header: /introstories/en/sport.jpg
--->
+---
 # The Rhythms of the Willow: Cricket and the British Soul
 
 To the uninitiated, cricket can appear as an impenetrable enigma: a leisurely pursuit where players dressed in pristine whites may spend five days on a field only for the match to conclude in a stalemate. Yet, for the United Kingdom, this "gentleman’s game" is far more than a mere pastime. It is a profound cultural institution that serves as a mirror to the nation’s history, social stratification, and its shifting modern identity. Rooted in the pastoral clearings of the 16th-century English countryside, cricket has evolved from a rural folk game into a sophisticated global export, yet its spiritual heart remains firmly tethered to the village greens and historic grounds of Great Britain.

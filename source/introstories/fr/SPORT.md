@@ -1,11 +1,11 @@
-<!--
+---
 title: "# L’Art de la Pétanque : Bien Plus qu’un Simple Divertissement Provincial"
 description: "An introstory about sport in fr"
 language: fr
 topic: sport
 publishDate: 2026-02-20
 header: /introstories/fr/sport.jpg
--->
+---
 # L’Art de la Pétanque : Bien Plus qu’un Simple Divertissement Provincial
 
 Si l’on interroge un observateur étranger sur les piliers de l’identité française, il citera sans doute la gastronomie, la haute couture ou l’esprit de contradiction. Pourtant, au cœur des places villageoises comme sous les platanes des métropoles, se joue quotidiennement un rituel dont la portée sociologique dépasse largement le cadre du simple loisir dominical : la pétanque. Ce sport, dont le nom dérive de l’expression provençale « pèd tanca », signifiant les pieds joints ou ancrés au sol, incarne une certaine idée de la France, oscillant entre tradition immuable et vecteur de cohésion sociale dans une modernité souvent jugée atomisée.

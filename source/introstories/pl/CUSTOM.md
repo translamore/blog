@@ -1,11 +1,11 @@
-<!--
+---
 title: "# Słodka strona polskiej duszy: Tłusty Czwartek"
 description: "An introstory about custom in pl"
 language: pl
 topic: custom
 publishDate: 2026-02-20
 header: /introstories/pl/custom.jpg
--->
+---
 # Słodka strona polskiej duszy: Tłusty Czwartek
 
 Tradycja celebrowania ostatniego czwartku przed Wielkim Postem zajmuje w polskiej kulturze miejsce szczególne, wykraczając daleko poza ramy zwykłego zwyczaju kulinarnego. Tłusty Czwartek, będący swoistym preludium do okresu wstrzemięźliwości, stanowi fascynujący splot historii, ludowych wierzeń oraz współczesnego stylu życia, który mimo postępującej globalizacji i dbałości o zdrowie, pozostaje nienaruszonym elementem tożsamości narodowej. To święto hedonizmu w najczystszej postaci, gdzie kalorie przestają mieć znaczenie, a społeczne przyzwolenie na łakomstwo staje się powszechnym nakazem.

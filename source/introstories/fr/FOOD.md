@@ -1,11 +1,11 @@
-<!--
+---
 title: "L’Âme de la Bourgogne : Grandeur et Décadence du Bœuf Bourguignon"
 description: "An introstory about food in fr"
 language: fr
 topic: food
 publishDate: 2026-02-20
 header: /introstories/fr/food.jpg
--->
+---
 ## L’Âme de la Bourgogne : Grandeur et Décadence du Bœuf Bourguignon
 
 Le bœuf bourguignon n'est pas simplement un ragoût ; il incarne une véritable mythologie culinaire française, un carrefour où la rusticité paysanne rencontre l'exigence de la haute gastronomie. Originaire, comme son nom l'indique, de la région Bourgogne, ce plat emblématique témoigne d'une époque où l'ingéniosité culinaire naissait de la nécessité de transformer des morceaux de viande réputés difficiles en mets d'une tendreté absolue. À l'origine, cette préparation constituait le repas dominical des paysans, utilisant les ressources locales les plus immédiates : les bovins de race charolaise et les vins robustes des vignobles environnants.

@@ -1,11 +1,11 @@
-<!--
+---
 title: "# Line of Duty"
 description: "An introstory about custom in en"
 language: en
 topic: custom
 publishDate: 2026-02-20
 header: /introstories/en/custom.jpg
--->
+---
 # Line of Duty
 
 The British queue is less of a physical formation and more of a collective psychological contract. To the uninitiated observer, it may appear as a simple line of individuals waiting for a bus or a morning coffee, but to the British, it is a sacred manifestation of social order, fairness, and quiet endurance. This peculiar cultural phenomenon transcends mere logistics; it is an unspoken choreography governed by a complex set of unwritten rules that dictate everything from spatial awareness to the appropriate level of passive-aggression required when someone dares to breach the sanctity of the line.

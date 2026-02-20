@@ -1,11 +1,11 @@
-<!--
+---
 title: "# Lyon : L'Échappée par Excellence par-delà les Clichés Parisiens"
 description: "An introstory about place in fr"
 language: fr
 topic: place
 publishDate: 2026-02-20
 header: /introstories/fr/place.jpg
--->
+---
 # Lyon : L'Échappée par Excellence par-delà les Clichés Parisiens
 
 Alors que le regard de l'esthète étranger se fige irrémédiablement sur les reflets de la Seine, il existe, à quelques encablures vers le sud, une cité qui récuse l'ostentation au profit d'une élégance plus ténébreuse et profonde. Lyon, ancienne capitale des Gaules, ne se livre pas au premier venu. Elle exige de ses visiteurs une certaine acuité intellectuelle et une sensibilité aux strates de l'histoire qui s'y superposent avec une densité presque vertigineuse. Si Paris est une vitrine, Lyon est un cabinet de curiosités, un palimpseste urbain où chaque ruelle semble avoir été conçue pour égarer l'esprit afin de mieux le confronter à l'essentiel.

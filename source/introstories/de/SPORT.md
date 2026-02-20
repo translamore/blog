@@ -1,11 +1,11 @@
-<!--
+---
 title: "# Die soziale Kraft des Fußballs"
 description: "An introstory about sport in de"
 language: de
 topic: sport
 publishDate: 2026-02-20
 header: /introstories/de/sport.jpg
--->
+---
 # Die soziale Kraft des Fußballs
 
 In der deutschen Identitätslandschaft nimmt der Fußball einen Raum ein, der weit über die bloße sportliche Betätigung hinausgeht. Während in anderen Nationen der Sport oft als reines Entertainment-Produkt konsumiert wird, fungiert er in Deutschland als ein komplexes soziales Bindeglied, das historische Traditionen mit modernen gesellschaftlichen Diskursen verwebt. Wer die deutsche Seele verstehen will, kommt an einem Samstagnachmittag im Stadion kaum vorbei. Hier manifestiert sich ein Phänomen, das Soziologen oft als „Ersatzreligion“ bezeichnen, wobei dieser Begriff der tiefgreifenden demokratischen Struktur des deutschen Vereinswesens kaum gerecht wird.

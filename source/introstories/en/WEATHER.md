@@ -1,11 +1,11 @@
-<!--
+---
 title: "British Drizzle: The Subtle Art of Rain"
 description: "An introstory about weather in en"
 language: en
 topic: weather
 publishDate: 2026-02-20
 header: /introstories/en/weather.jpg
--->
+---
 ## British Drizzle: The Subtle Art of Rain
 
 When people imagine the weather in the United Kingdom, they often picture endless grey skies and relentless rain. Yet this stereotype, while not entirely unfounded, fails to capture the distinctive character of what many locals affectionately call “drizzle.” Unlike dramatic tropical downpours or violent thunderstorms, British drizzle is understated, persistent, and oddly atmospheric. It rarely commands attention, but it shapes daily life, landscapes, and even national identity.

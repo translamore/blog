@@ -1,11 +1,11 @@
-<!--
+---
 title: "Tekutá demokracie: Duše české hospody"
 description: "An introstory about custom in cs"
 language: cs
 topic: custom
 publishDate: 2026-02-20
 header: /introstories/cs/custom.jpg
--->
+---
 Česká hospoda zdaleka nepředstavuje pouze prostor vymezený čtyřmi stěnami, kde se čepuje pivo a podávají pokrmy lidové kuchyně. Je to svébytný sociokulturní fenomén, který po staletí formoval národní identitu a sloužil jako neoficiální parlament, tisková kancelář i zpovědnice v jednom. Pro cizince může být první návštěva tradičního hostince matoucí zkušeností, neboť pravidla, která zde panují, nejsou nikde sepsána, a přesto je všichni místní instinktivně dodržují. Pochopení tohoto mikrosvěta vyžaduje vnímavost pro detail a respekt k rituálům, které se dědí z generace na generaci.
 
 Vše začíná už samotným vstupem a výběrem místa. V mnoha tradičních podnicích narazíte na fenomén takzvaného štamgastského stolu. Je to posvátné území vyhrazené pro stálé hosty, kteří zde sedávají desítky let ve stejnou dobu a ve stejném složení. Usednout k takovému stolu bez pozvání se rovná společenskému faux pas, které vám sice personál pravděpodobně odpustí, ale pohledy místních vám dají jasně najevo, že jste narušili křehký ekosystém. Komunikace s obsluhou je pak kapitolou samou o sobě. Český číšník či výčepní často neoplývá naučeným americkým úsměvem, ale jeho profesionalita se měří rychlostí, s jakou přistane plná sklenice na stole, a schopností udržet v hlavě desítky objednávek bez jediného zapsání.

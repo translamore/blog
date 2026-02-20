@@ -1,11 +1,11 @@
-<!--
+---
 title: "# Łódź: Industrialna Metamorfoza Polskiego Manchesteru"
 description: "An introstory about place in pl"
 language: pl
 topic: place
 publishDate: 2026-02-20
 header: /introstories/pl/place.jpg
--->
+---
 # Łódź: Industrialna Metamorfoza Polskiego Manchesteru
 
 Choć turystyczne szlaki Polski najczęściej wiodą ku krakowskim zabytkom czy gdańskim kamienicom, istnieje miasto, które wymyka się klasycznym definicjom piękna, oferując w zamian surową, autentyczną energię. Łódź, niegdyś ziemia obiecana dla tysięcy robotników, a dziś prężnie rozwijające się centrum kultury i przemysłów kreatywnych, stanowi fascynujący przypadek miejskiej ewolucji. Dla podróżnika poszukującego miejsc nieoczywistych, ta metropolia jest niczym palimpsest, na którym historia dziewiętnastowiecznego kapitalizmu przeplata się z nowoczesnym designem i awangardową sztuką.

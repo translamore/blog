@@ -1,11 +1,11 @@
-<!--
+---
 title: "# České srdce na ledě"
 description: "An introstory about sport in cs"
 language: cs
 topic: sport
 publishDate: 2026-02-20
 header: /introstories/cs/sport.jpg
--->
+---
 # České srdce na ledě
 
 Hokej v České republice představuje mnohem více než pouhou sportovní disciplínu; je to nedílná součást národní identity, tmel společnosti a fenomén, který dokáže v kritických momentech sjednotit zemi jako málokterá jiná událost. Historie tohoto sportu na českém území sahá hluboko do minulosti a je protkána neuvěřitelnými úspěchy, ale i politickými pohnutkami, které formovaly charakter národního týmu i jeho příznivců. Pro studenty na pokročilé úrovni C1 je studium hokejového kontextu skvělým způsobem, jak porozumět české mentalitě a specifickému slovníku, který se v médiích i běžné mluvě často objevuje.

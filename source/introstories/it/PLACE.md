@@ -1,11 +1,11 @@
-<!--
+---
 title: "# Il Carosello tra le Vette: L’Essenza della Sella Ronda"
 description: "An introstory about place in it"
 language: it
 topic: place
 publishDate: 2026-02-20
 header: /introstories/it/place.jpg
--->
+---
 # Il Carosello tra le Vette: L’Essenza della Sella Ronda
 
 Nel cuore pulsante delle Dolomiti, laddove la roccia si tinge di un rosa sovrannaturale al calar del sole, si snoda un itinerario che trascende il semplice concetto di percorso turistico per farsi vera e propria esperienza metafisica. La Sella Ronda non è soltanto un anello sciistico o ciclistico che abbraccia il massiccio del Sella, bensì un dialogo ininterrotto tra l’ingegno umano e l’imponente verticalità della natura. Per il viaggiatore colto, che rifugge le mete scontate del turismo di massa, questo circuito rappresenta un’immersione totale in un ecosistema dove la cultura ladina, con le sue radici millenarie e la sua lingua orgogliosamente preservata, funge da collante tra valli che, pur comunicanti, mantengono identità distinte e sfaccettate.

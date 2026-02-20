@@ -1,11 +1,11 @@
-<!--
+---
 title: "# Symbióza sýra a pěnivého moku"
 description: "An introstory about food in cs"
 language: cs
 topic: food
 publishDate: 2026-02-20
 header: /introstories/cs/food.jpg
--->
+---
 # Symbióza sýra a pěnivého moku
 
 Česká kuchyně bývá v mezinárodním kontextu často redukována na rustikální kombinaci vepřového masa, knedlíků a zelí. Pokud se však ponoříme do autentického každodenního života průměrného obyvatele české kotliny, narazíme na fenomén, který svou popularitou i kulturním dopadem tyto tradiční pokrmy leckdy zastiňuje. Kombinace smaženého sýru a točeného piva představuje pro mnohé Čechy vrchol komfortní gastronomie, jakousi sekulární svátost, která v sobě snoubí nostalgii, lidovou dostupnost a specifický estetický kód.

@@ -1,11 +1,11 @@
-<!--
+---
 title: "# Fenomen polskiej siatkówki: Od pasji do narodowej tożsamości"
 description: "An introstory about sport in pl"
 language: pl
 topic: sport
 publishDate: 2026-02-20
 header: /introstories/pl/sport.jpg
--->
+---
 # Fenomen polskiej siatkówki: Od pasji do narodowej tożsamości
 
 Historia polskiego sportu zna wiele wzlotów i upadków, jednak rzadko która dyscyplina zdołała utrzymać tak stabilną i wysoką pozycję w sercach kibiców jak siatkówka. Choć piłka nożna niezmiennie dominuje w statystykach dotyczących ogólnej popularności, to właśnie siatkarze i siatkarki dostarczają narodowi poczucia dumy, profesjonalizmu oraz, co najważniejsze, regularnych sukcesów na arenie międzynarodowej. Zjawisko to, często określane mianem „siatkarskiej gorączki”, wykracza daleko poza ramy zwykłej rywalizacji sportowej, stając się istotnym elementem współczesnej kultury masowej w Polsce.

@@ -1,11 +1,11 @@
-<!--
+---
 title: "# Fenomén ledovky: Když se krajina promění v ochromující skleněné vězení"
 description: "An introstory about weather in cs"
 language: cs
 topic: weather
 publishDate: 2026-02-20
 header: /introstories/cs/weather.jpg
--->
+---
 # Fenomén ledovky: Když se krajina promění v ochromující skleněné vězení
 
 Přírodní živly nás často fascinují svou nespoutanou silou, avšak málokterý meteorologický jev v sobě snoubí takovou estetickou podmanivost s bezprostředním nebezpečím jako ledovka. Pro náhodného pozorovatele může pohled na stromy obalené čirým ledem představovat vrchol zimní idyly, nicméně pro infrastrukturu moderní společnosti a bezpečnost občanů znamená tato situace stav nejvyšší pohotovosti. Na rozdíl od běžného sněžení, které krajinu zahalí do měkké pokrývky, ledovka transformuje veškerý povrch v neproniknutelnou a extrémně kluzkou krustu, která dokáže během několika hodin paralyzovat celé regiony.

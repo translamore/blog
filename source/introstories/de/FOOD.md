@@ -1,11 +1,11 @@
-<!--
+---
 title: "# Currywurst: Zwischen Ketchup und Kulturerbe"
 description: "An introstory about food in de"
 language: de
 topic: food
 publishDate: 2026-02-20
 header: /introstories/de/food.jpg
--->
+---
 # Currywurst: Zwischen Ketchup und Kulturerbe
 
 Die Currywurst gilt in der Bundesrepublik Deutschland nicht bloß als ein profaner Imbiss, sondern vielmehr als ein kulturgeschichtliches Phänomen, das die sozialen Schichten überbrückt und tief im kollektiven Gedächtnis verwurzelt ist. Während Gourmet-Trends kommen und gehen und die gehobene Gastronomie sich ständig neu erfindet, bleibt die Kombination aus einer gebratenen oder frittierten Brühwurst, einer tomatenbasierten Sauce und einer Prise Currypulver eine unerschütterliche Konstante im urbanen Raum. Doch hinter der scheinbaren Einfachheit dieses Gerichts verbirgt sich eine facettenreiche Historie, die eng mit der Trümmerzeit des Nachkriegsdeutschlands und dem wirtschaftlichen Aufstieg verknüpft ist.

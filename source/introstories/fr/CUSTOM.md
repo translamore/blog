@@ -1,11 +1,11 @@
-<!--
+---
 title: "# La Bise : Un Casse-tête Français"
 description: "An introstory about custom in fr"
 language: fr
 topic: custom
 publishDate: 2026-02-20
 header: /introstories/fr/custom.jpg
--->
+---
 # La Bise : Un Casse-tête Français
 
 L'art subtil de la bise, ce rituel de salutation si emblématique de l'Hexagone, transcende la simple gestuelle pour s'ancrer au cœur des dynamiques sociales françaises. Bien loin d'être un acte uniforme et dénué de sens, cette pratique constitue un langage muet, régi par une grammaire complexe que chaque Français semble maîtriser par intuition, mais qui laisse souvent le visiteur étranger dans un abîme de perplexité. Ce contact fugace des joues, souvent accompagné d'un léger bruit de succion, n'est pas une manifestation d'affection désordonnée, mais plutôt une chorégraphie précise marquant l'appartenance à un cercle social, qu'il soit amical, familial ou, plus rarement, professionnel.

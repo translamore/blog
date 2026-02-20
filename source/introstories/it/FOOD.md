@@ -1,11 +1,11 @@
-<!--
+---
 title: "# Pasta al Forno: Oltre la Tradizione"
 description: "An introstory about food in it"
 language: it
 topic: food
 publishDate: 2026-02-20
 header: /introstories/it/food.jpg
--->
+---
 # Pasta al Forno: Oltre la Tradizione
 
 Esistono piatti che trascendono la mera funzione nutritiva per assurgere a simboli identitari, capaci di condensare in una teglia secoli di stratificazioni sociali e regionali. La pasta al forno non è semplicemente una tecnica di cottura, bensì un complesso rituale domestico che riflette l’ingegno della cucina del recupero e l’opulenza delle celebrazioni festive. In un contesto accademico o di alto profilo linguistico, analizzare questo pilastro gastronomico significa decodificare un linguaggio fatto di consistenze contrastanti, dove l’alchimia tra il croccante superficiale e l’alveolare morbidezza interna rappresenta il culmine di una sapiente gestione del calore.

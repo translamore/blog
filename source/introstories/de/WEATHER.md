@@ -1,11 +1,11 @@
-<!--
+---
 title: "# Das Paradox der Energiewende: Wenn der Wind schweigt und die Sonne ruht"
 description: "An introstory about weather in de"
 language: de
 topic: weather
 publishDate: 2026-02-20
 header: /introstories/de/weather.jpg
--->
+---
 # Das Paradox der Energiewende: Wenn der Wind schweigt und die Sonne ruht
 
 In der aktuellen Debatte um die europäische Energielandschaft hat sich ein Begriff festgesetzt, der sowohl Meteorologen als auch Energiewirtschaftler in Alarmbereitschaft versetzt: die Dunkelflaute. Dieses meteorologische Phänomen beschreibt einen Zustand, in dem zwei der wichtigsten Säulen der regenerativen Stromerzeugung gleichzeitig wegbrechen. Es herrscht meteorologische Windstille, die sogenannte Flaute, während parallel dazu die solare Einstrahlung durch dichte Bewölkung oder die nächtliche Dunkelheit auf ein Minimum reduziert wird. Für ein Industrieland, das seine Souveränität zunehmend auf volatile Energiequellen stützt, stellt dieses Szenario eine fundamentale Zerreißprobe für die Netzstabilität dar.

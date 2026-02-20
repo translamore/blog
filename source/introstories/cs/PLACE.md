@@ -1,11 +1,11 @@
-<!--
+---
 title: "# Liberec: Severočeský klenot ve stínu Jizerských hor"
 description: "An introstory about place in cs"
 language: cs
 topic: place
 publishDate: 2026-02-20
 header: /introstories/cs/place.jpg
--->
+---
 # Liberec: Severočeský klenot ve stínu Jizerských hor
 
 Když se řekne ideální cíl pro víkendový výlet v České republice, většina turistů automaticky zamíří do Prahy, Českého Krumlova nebo do moravských vinic. Liberec, páté největší město v zemi, přitom často zůstává nespravedlivě opomíjeným bodem na mapě, přestože nabízí fascinující syntézu industriální historie, unikátní moderní architektury a bezprostředního doteku divoké přírody. Toto město pod Ještědem není jen obyčejným regionálním centrem; je to místo s hlubokou německou stopou, která se dodnes zrcadlí v jeho monumentálních stavbách a specifickém městském urbanismu.

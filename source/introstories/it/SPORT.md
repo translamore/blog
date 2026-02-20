@@ -1,11 +1,11 @@
-<!--
+---
 title: "# Il Battito Rosso: L’Eredità dell’Italia in Formula Uno"
 description: "An introstory about sport in it"
 language: it
 topic: sport
 publishDate: 2026-02-20
 header: /introstories/it/sport.jpg
--->
+---
 # Il Battito Rosso: L’Eredità dell’Italia in Formula Uno
 
 L'automobilismo in Italia non è semplicemente una disciplina sportiva, bensì una declinazione dell'identità nazionale che affonda le proprie radici in un connubio inscindibile tra ingegneria d'avanguardia e fervore popolare. La Formula Uno, massima espressione di questo binomio, rappresenta per il Bel Paese un rito collettivo che trascende il mero dato agonistico, trasformando ogni Gran Premio in un palcoscenico dove si celebra il mito della velocità. Sebbene il calendario mondiale si sia espanso verso nuovi orizzonti commerciali in Medio Oriente e nelle Americhe, l’Italia conserva un ruolo centrale e quasi sacrale, custode di una tradizione che nessun circuito ultramoderno può sperare di replicare fedelmente.
