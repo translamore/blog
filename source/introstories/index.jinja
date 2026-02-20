@@ -1,14 +1,14 @@
 <!--
-title: Translamore Blog
+title: Introstories
 -->
 <!doctype html>
 
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>{{  title  }}</title>
+  <title>Introstories - Translamore Blog</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Translamore Blog - News for language learners">
+  <meta name="description" content="Language learning stories by Translamore">
 
   <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
@@ -26,20 +26,20 @@ title: Translamore Blog
   {{ components.nav() }}
 
   <header>
-    <h1>{{ title }}</h1>
-    <p class="tagline">News and stories for language learners</p>
+    <h1>Stories</h1>
+    <p class="tagline">Select a language to start reading</p>
   </header>
 
   <main>
     <section>
       <ul class="post-list">
-      {% for page in pages.byTag("news", sortBy="publishDate=desc") %}
-        <li>
-          <div class="date">{{ page.data['publishDate'] }}</div>
-          <a class="title" href="{{  page.data['url']  }}">{{  page.data['title']  }}</a>
-          <p class="description">{{  page.data['description']  }}</p>
-        </li>
-      {% endfor %}
+        <li><a class="title" href="/introstories/cs/">Czech (čeština)</a></li>
+        <li><a class="title" href="/introstories/de/">German (Deutsch)</a></li>
+        <li><a class="title" href="/introstories/en/">English</a></li>
+        <li><a class="title" href="/introstories/fr/">French (Français)</a></li>
+        <li><a class="title" href="/introstories/it/">Italian (Italiano)</a></li>
+        <li><a class="title" href="/introstories/pl/">Polish (Polski)</a></li>
+        <li><a class="title" href="/introstories/uk/">Ukrainian (Українська)</a></li>
       </ul>
     </section>
   </main>

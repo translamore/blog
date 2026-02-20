@@ -1,9 +1,12 @@
+<!--
+title: Introstories - French
+-->
 <!doctype html>
 
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>{{  title  }}</title>
+  <title>French Introstories - Translamore Blog</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
@@ -14,30 +17,32 @@
   <link rel="shortcut icon" href="/images/favicon/favicon.ico">
 
   <link href="/styles/styles.css" rel="stylesheet">
+  <link href="/styles/home.css" rel="stylesheet">
   <link href="/styles/post.css" rel="stylesheet">
 </head>
 
 <body>
   {{ components.nav() }}
 
+  <header>
+    <h1>French</h1>
+    <p class="tagline">Introstories in Français</p>
+  </header>
+
   <main>
-    <article>
-      <header>
-        <h1>{{ title }}</h1>
-        <div class="meta">
-          <span class="date">{{ publishDate }}</span>
-          {% if author %} <span class="author">by {{ author }}</span> {% endif %}
-        </div>
-      </header>
-
-      {% if header %}
-      <div class="header-image" style="background-image: url('{{ header }}'); height: 300px; background-size: cover; margin-bottom: 40px; border-radius: 4px;"></div>
-      {% endif %}
-
-      <div class="content">
-        {{  content  }}
-      </div>
-    </article>
+    <section>
+      <ul class="post-list">
+      {% for page in pages.byTag("introstories", sortBy="publishDate=desc") %}
+        {% if page.data['language'] == 'fr' and page.data['publishDate'] %}
+        <li>
+          <div class="date">{{ page.data['publishDate'] }}</div>
+          <a class="title" href="{{  page.data['url']  }}">{{  page.data['title']  }}</a>
+          <p class="description">{{  page.data['description']  }}</p>
+        </li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </section>
   </main>
 
   {{  components.footer()  }}
