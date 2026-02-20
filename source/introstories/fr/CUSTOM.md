@@ -1,13 +1,11 @@
 ---
-title: "# La Bise : Un Casse-tête Français"
+title: "La Bise : Un Casse-tête Français"
 description: "An introstory about custom in fr"
 language: fr
 topic: custom
 publishDate: 2026-02-20
 header: /introstories/fr/custom.jpg
 ---
-# La Bise : Un Casse-tête Français
-
 L'art subtil de la bise, ce rituel de salutation si emblématique de l'Hexagone, transcende la simple gestuelle pour s'ancrer au cœur des dynamiques sociales françaises. Bien loin d'être un acte uniforme et dénué de sens, cette pratique constitue un langage muet, régi par une grammaire complexe que chaque Français semble maîtriser par intuition, mais qui laisse souvent le visiteur étranger dans un abîme de perplexité. Ce contact fugace des joues, souvent accompagné d'un léger bruit de succion, n'est pas une manifestation d'affection désordonnée, mais plutôt une chorégraphie précise marquant l'appartenance à un cercle social, qu'il soit amical, familial ou, plus rarement, professionnel.
 
 Historiquement, le baiser social a traversé les siècles en s'adaptant aux mœurs et aux crises sanitaires. Si l'on remonte à l'Antiquité, le geste revêtait déjà des significations variées, allant de la reconnaissance hiérarchique à la marque de fraternité. Aujourd'hui, la bise contemporaine se distingue par sa nature égalitaire, bien qu'elle reste soumise à des codes de genre et de proximité. On observe, par exemple, que la bise entre hommes, autrefois cantonnée au cercle familial restreint, s'est largement démocratisée au sein des jeunes générations et des milieux artistiques, témoignant d'une évolution des perceptions de la virilité et de la camaraderie.

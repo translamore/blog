@@ -1,13 +1,11 @@
 ---
-title: "# Halny – wiatr, który zmienia ludzi i krajobraz"
+title: "Halny – wiatr, który zmienia ludzi i krajobraz"
 description: "An introstory about weather in pl"
 language: pl
 topic: weather
 publishDate: 2026-02-20
 header: /introstories/pl/weather.jpg
 ---
-# Halny – wiatr, który zmienia ludzi i krajobraz
-
 W polskich Tatrach istnieje zjawisko, które od wieków budzi respekt, fascynację i niepokój. Mowa o halnym – ciepłym, porywistym wietrze fenowym, który pojawia się głównie po południowej stronie Karpat, a szczególnie silnie odczuwalny jest w rejonie Tatry oraz w okolicach Zakopane. Choć z meteorologicznego punktu widzenia halny jest zjawiskiem stosunkowo dobrze opisanym, w świadomości społecznej funkcjonuje niemal jak siła nadprzyrodzona – wiatr, który wpływa nie tylko na przyrodę, lecz także na ludzką psychikę.
 
 ## Mechanizm powstawania

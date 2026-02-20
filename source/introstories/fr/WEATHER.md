@@ -1,13 +1,11 @@
 ---
-title: "# L’Empreinte Climatique : Naviguer dans l’Ère des Canicules Perpétuelles"
+title: "L’Empreinte Climatique : Naviguer dans l’Ère des Canicules Perpétuelles"
 description: "An introstory about weather in fr"
 language: fr
 topic: weather
 publishDate: 2026-02-20
 header: /introstories/fr/weather.jpg
 ---
-# L’Empreinte Climatique : Naviguer dans l’Ère des Canicules Perpétuelles
-
 Le terme « canicule » évoquait autrefois, dans l’imaginaire collectif européen, une parenthèse enchantée de farniente sous un soleil généreux, interrompue seulement par le chant des cigales. Pourtant, en l’espace de quelques décennies, cette notion a glissé du champ lexical de la météorologie estivale vers celui de l’urgence sanitaire et environnementale. Pour un lecteur de niveau avancé, il convient d'analyser ce phénomène non plus comme un aléa climatique isolé, mais comme le symptôme d’une transformation profonde de notre rapport au territoire et à la temporalité.
 
 La canicule se définit techniquement par un dépassement des seuils de température, tant diurnes que nocturnes, sur une période prolongée. Ce n’est pas tant l’intensité du pic de chaleur qui fragilise les organismes et les infrastructures, mais bien l’absence de répit nocturne. Lorsque la ville ne parvient plus à rejeter la chaleur accumulée durant la journée, le métabolisme humain s'épuise et les îlots de chaleur urbains se transforment en véritables étuves. Cette inertie thermique, exacerbée par une minéralisation excessive de nos centres-villes, souligne l’obsolescence de nos modèles architecturaux hérités du siècle dernier, où l’on privilégiait le béton au détriment de la porosité végétale.

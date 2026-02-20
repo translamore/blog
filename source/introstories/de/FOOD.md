@@ -1,13 +1,11 @@
 ---
-title: "# Currywurst: Zwischen Ketchup und Kulturerbe"
+title: "Currywurst: Zwischen Ketchup und Kulturerbe"
 description: "An introstory about food in de"
 language: de
 topic: food
 publishDate: 2026-02-20
 header: /introstories/de/food.jpg
 ---
-# Currywurst: Zwischen Ketchup und Kulturerbe
-
 Die Currywurst gilt in der Bundesrepublik Deutschland nicht bloß als ein profaner Imbiss, sondern vielmehr als ein kulturgeschichtliches Phänomen, das die sozialen Schichten überbrückt und tief im kollektiven Gedächtnis verwurzelt ist. Während Gourmet-Trends kommen und gehen und die gehobene Gastronomie sich ständig neu erfindet, bleibt die Kombination aus einer gebratenen oder frittierten Brühwurst, einer tomatenbasierten Sauce und einer Prise Currypulver eine unerschütterliche Konstante im urbanen Raum. Doch hinter der scheinbaren Einfachheit dieses Gerichts verbirgt sich eine facettenreiche Historie, die eng mit der Trümmerzeit des Nachkriegsdeutschlands und dem wirtschaftlichen Aufstieg verknüpft ist.
 
 Die Entstehungsgeschichte der Currywurst ist untrennbar mit dem Namen Herta Heuwer verbunden, die im September 1949 an ihrem Imbissstand im Berliner Stadtteil Charlottenburg die erste Sauce aus Tomatenmark, verschiedenen Gewürzen und Currypulver kreierte. In einer Ära, die von Entbehrungen und dem Hunger nach Exotik geprägt war, stellte diese Mixtur eine kleine kulinarische Revolution dar. Heuwer, die sich ihr Rezept später sogar patentieren ließ, traf damit den Nerv einer Zeit, in der die Menschen nach Erschwinglichkeit und gleichzeitig nach einem Hauch weiter Welt suchten. Dass die britischen Besatzungssoldaten das Currypulver lieferten, verleiht der Genese des Gerichts eine zusätzliche historische Note, die den transatlantischen Austausch jener Jahre widerspiegelt.

@@ -1,13 +1,11 @@
 ---
-title: "# Scirocco"
+title: "Scirocco"
 description: "An introstory about weather in it"
 language: it
 topic: weather
 publishDate: 2026-02-20
 header: /introstories/it/weather.jpg
 ---
-# Scirocco
-
 L’invitato di pietra dell’estate mediterranea, quel soffio caldo e fuligginoso che trasforma l’azzurro del cielo in un’indefinita coltre opalescente, risponde al nome di Scirocco. Per un osservatore inesperto, questo vento potrebbe apparire come una semplice variazione meteorologica, ma per chi vive lungo le sponde del Mare Nostrum, esso rappresenta un fenomeno atavico, capace di influenzare non solo il clima, ma anche l’umore, l’architettura e la salute pubblica. Lo Scirocco trae le sue origini dalle profondità infuocate del Sahara, dove immani masse d’aria secca e torrida vengono spinte verso nord dalle depressioni che transitano sul Mediterraneo. In questa fase nascente, il vento è un gigante arido, carico di polveri sottilissime e sabbia silicea, pronto a intraprendere un viaggio di trasformazione che lo porterà a mutare pelle una volta raggiunte le coste europee.
 
 Nel suo transito sopra la superficie marina, avviene una metamorfosi fisica di straordinaria rilevanza. L’aria desertica, originariamente priva di umidità, assorbe voracemente il vapore acqueo sprigionato dal mare, giungendo sulle coste della Sicilia, della Calabria e della Puglia sotto forma di una corrente calda e pesantemente umida. È in questo preciso istante che si manifesta la "mollezza" tipica dello Scirocco, quel senso di spossatezza e di oppressione respiratoria che i medici dell’antichità attribuivano a una sorta di squilibrio degli umori. La visibilità si riduce sensibilmente, non a causa della nebbia tradizionale, bensì per via di una foschia lattiginosa che satura l’orizzonte, mentre la sabbia in sospensione conferisce alla luce solare riflessi ramati, quasi apocalittici, depositandosi poi ovunque sotto forma di un velo ocra persistente.

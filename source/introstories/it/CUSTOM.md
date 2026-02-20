@@ -1,13 +1,11 @@
 ---
-title: "# Aperitivo: Identità Liquida"
+title: "Aperitivo: Identità Liquida"
 description: "An introstory about custom in it"
 language: it
 topic: custom
 publishDate: 2026-02-20
 header: /introstories/it/custom.jpg
 ---
-# Aperitivo: Identità Liquida
-
 L'evoluzione dell’aperitivo da semplice rituale pre-serale a fenomeno sociologico totalizzante rappresenta una delle trasformazioni più affascinanti del costume italiano contemporaneo. Sebbene le radici del termine affondino nell’etimologia latina _aperitīvus_, ovvero "che apre", con riferimento esplicito alla stimolazione del senso della fame, la declinazione moderna di questa consuetudine ha travalicato i confini della mera fisiologia per insediarsi stabilmente nel tessuto dell'interazione sociale urbana. Quello che un tempo era un rapido bicchiere di vino accompagnato da qualche oliva si è trasfigurato in un’esperienza sensoriale complessa, spesso capace di sostituire il pasto serale e di ridefinire i ritmi della metropoli.
 
 La genesi di questa tradizione viene convenzionalmente attribuita alla Torino di fine Settecento, dove l’invenzione del vermut diede il via a una moda che avrebbe presto conquistato i caffè storici della penisola. Tuttavia, è nel dinamismo del Novecento che l’aperitivo ha acquisito la sua aura di eleganza e sofisticatezza, legandosi indissolubilmente all'estetica del benessere e alla convivialità borghese. Oggi, navigando tra i canali di Venezia con uno spritz o tra i dehors milanesi durante l'ora d'oro, si percepisce come questo rito sia diventato un ponte tra il dovere lavorativo e la libertà della sfera privata. È una terra di mezzo temporale in cui le gerarchie si sfumano e il discorso fluisce con maggiore levità, mediato dall'amarezza rinfrescante dei cocktail botanici e dall'effervescenza dei vini locali.

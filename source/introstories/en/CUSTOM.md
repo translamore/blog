@@ -1,13 +1,11 @@
 ---
-title: "# Line of Duty"
+title: "Line of Duty"
 description: "An introstory about custom in en"
 language: en
 topic: custom
 publishDate: 2026-02-20
 header: /introstories/en/custom.jpg
 ---
-# Line of Duty
-
 The British queue is less of a physical formation and more of a collective psychological contract. To the uninitiated observer, it may appear as a simple line of individuals waiting for a bus or a morning coffee, but to the British, it is a sacred manifestation of social order, fairness, and quiet endurance. This peculiar cultural phenomenon transcends mere logistics; it is an unspoken choreography governed by a complex set of unwritten rules that dictate everything from spatial awareness to the appropriate level of passive-aggression required when someone dares to breach the sanctity of the line.
 
 The origins of this obsession are often debated, with many social historians pointing toward the industrialization of the nineteenth century and the subsequent rationing during the World Wars. During these periods of scarcity, the queue became a symbol of the "fair share." If one waited their turn, one would eventually be served. This fostered a deep-seated belief that patience is a moral virtue and that jumping the queue is not merely a breach of etiquette, but a fundamental assault on the democratic principle of equality. In a society that historically leaned on rigid class structures, the queue served as a leveling ground where the duke and the laborer were forced to stand in the same rain, governed by the same clock.
